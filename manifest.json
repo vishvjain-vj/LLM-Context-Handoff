@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "LLM Context Handoff",
+  "version": "1.0",
+  "description": "Compresses and copies your current LLM chat session for easy migration.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

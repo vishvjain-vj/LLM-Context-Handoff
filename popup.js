@@ -1,5 +1,5 @@
 // Replace with your free Gemini API key from Google AI Studio
-const GEMINI_API_KEY = "AIzaSyDSB9NPVjE-H7oslC3u7d8_M0WEe3s2uCg";
+const GEMINI_API_KEY = "AIzaSyDSB9NPVjE-H7oslC3u7d8_M0WEe*****";
  
 
 document.getElementById('grabContext').addEventListener('click', async () => {
